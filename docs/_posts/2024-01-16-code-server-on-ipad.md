@@ -5,7 +5,7 @@ title:  "VS Code on iPad - Using Proxmox and Tailscale to Securely Host Code-Ser
 
 # Introduction
 
-Apple would like you to think that the iPad "Pro" is a serious tool that you can use for *real* work, but I've found my iPad to be quite limited for my personal workload. Its perfect for taking handwritten notes... and that's about it.
+Apple markets the iPad Pro as a serious tool capable of even the most demanding tasks, but sadly I've found my iPad to be quite limited for my personal workload. Its perfect for taking handwritten notes... and that's about it.
 
 But that changes today! By the end of this tutorial, we'll be able to access Visual Studio Code on the iPad and work within a fully featured Linux environment using code-server. Even better, we can access code-server from *any* device, giving us a consistent cross-platform development environment.  
 

@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "Web Scraping with Selenium and Beautiful Soup to Create Models in Django(DRAFT)"
+title:  "Web Scraping with Selenium and Beautiful Soup to Create Models in Django"
 ---
-
-**This is a rough draft and subject to change
 
 # **Introduction**
 
